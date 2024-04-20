@@ -1,7 +1,7 @@
 package Form;
 /**
  *
- * @author Rudiono
+ * @java-apotik
  */
 public class Menu_Utama extends javax.swing.JFrame {
     /**
