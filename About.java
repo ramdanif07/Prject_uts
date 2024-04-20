@@ -1,10 +1,7 @@
 
 package Form;
 
-/**
- *
- * @author Anonymous
- */
+
 public class About extends javax.swing.JFrame {
 
     /**
