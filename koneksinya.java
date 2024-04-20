@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 /**
  *
- * @project-uts
+ * @java-apotik
  */
 public class koneksinya {
     private static Connection koneksi;
