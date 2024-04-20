@@ -7,7 +7,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.*;
 /**
  *
- * @author Rudiono
+ * @java-apotik
  */
 public class Form_KategoriObat extends javax.swing.JFrame {
 
