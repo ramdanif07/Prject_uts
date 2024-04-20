@@ -9,7 +9,7 @@ import Koneksi_DB.koneksinya;
 
 /**
  *
- * @author Rudiono
+ * @java-apotik
  */
 public class FormKategori extends javax.swing.JFrame {
 
