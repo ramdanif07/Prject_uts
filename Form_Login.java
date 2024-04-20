@@ -7,7 +7,7 @@ import java.sql.Statement;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Rudiono
+ * @java-apotik
  */
 public class Form_Login extends javax.swing.JFrame {
     
