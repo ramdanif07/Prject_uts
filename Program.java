@@ -2,7 +2,7 @@ package Main_Program;
 import Form.Form_Login;
 /**
  *
- * @author Rudiono
+ * @java-apotik
  */
 public class Program {
     public static void main(String[] args){
